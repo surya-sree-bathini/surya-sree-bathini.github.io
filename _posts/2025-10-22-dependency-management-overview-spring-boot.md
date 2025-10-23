@@ -96,9 +96,8 @@ With the BOM in place, child modules can directly include these dependencies **w
 
 * Only the **core module** — the one responsible for packaging the main executable JAR — should include build plugins such as the `spring-boot-maven-plugin`.
 * **Supporting modules** (e.g., libraries, starters, or utility modules) **should not include** these executable packaging plugins, as they are not meant to produce runnable artifacts.
-
 * However, if a supporting module requires specific plugins for its own build or testing purposes (e.g., test plugins), it may include those as needed.
-{: .notice}
+<!-- {: .notice} -->
 
 ### Special Cases (e.g., Flyway)
 
