@@ -3,6 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hey there!!
+
+I’m a Machine Learning and AI Engineer, currently working at **Hexacluster**. I have a **B.Tech in Computer Science** and a **Diploma in Data Science and Applications from IIT Madras**.
+
+I started my journey with a strong focus on **AI/ML engineering**, but over time I’ve also explored **backend development**, **GitOps**, and other aspects of modern software engineering. I enjoy understanding how different layers of technology connect — from data to deployment.
+
+This site isn’t meant to be a portfolio or a showcase — it’s simply a **personal space to document my learnings, experiments, and notes**. I built it so I can revisit concepts, track progress, and reflect on how my understanding evolves over time.
+
+If you’ve somehow found this site — welcome! Feel free to explore, and maybe you’ll find something useful or interesting along the way.
