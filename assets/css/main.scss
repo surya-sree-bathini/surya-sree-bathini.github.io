@@ -1,0 +1,36 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Typography tweaks */
+body {
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+
+h1 { font-size: 1.4rem; line-height: 1.3; }
+h2 { font-size: 1.2rem; line-height: 1.35; }
+h3 { font-size: 1.05rem; line-height: 1.4; }
+h4 { font-size: 0.95rem; line-height: 1.4; }
+h5 { font-size: 0.9rem; line-height: 1.4; }
+h6 { font-size: 0.85rem; line-height: 1.4; font-weight: 600; }
+
+/* Wider content area */
+.page__content {
+  max-width: 1100px;
+}
+
+@media (max-width: 1024px) {
+  .page__content {
+    max-width: 90%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .page__content {
+    margin-left: 5%;
+  }
+}
