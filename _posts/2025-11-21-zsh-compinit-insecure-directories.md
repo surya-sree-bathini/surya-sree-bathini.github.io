@@ -2,7 +2,6 @@
 title:  "zsh compinit: insecure directories"
 date:   2025-11-21 15:16:50 +0530
 categories:
-  - blog
   - issues
 tags:
   - Linux
